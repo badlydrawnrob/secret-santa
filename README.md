@@ -2,10 +2,10 @@
 
 <img align="right" style="width: 40%;" src="./pexels-ylanite-koppens-1883378-2.jpg" />
   
-> - If any of the rules aren't clear to you, please email me to verify.
+> - 📩 If any of the rules aren't clear to you, please email me to verify.
 >   - You can find **my email in your dashboard**.
 > - ⛪ If you're a member of the church and you're applying, it's likely we give gifts in person on Christmas Eve :)
-> - It doesn't make sense to add international gift buyers right now, so **it's UK only please**.
+> - 🇬🇧 It doesn't make sense to add international gift buyers right now, so **it's UK only please**.
 
 
 ## ⏰ Deadline
@@ -55,12 +55,14 @@ Parents can submit one child per entrant, but can **get in touch by email** if y
 
 For every kid who takes part, that's another book to buy.[^2] 
 
-## Posting the book
+## 📮 Posting the book
 
 > For **option 1** all it's going to cost you is postage.
 > For **option 2** you'll pay for the book and postage.
 
-First off, it's a gift — so make it look like one! There's a cap on spending to **£14 per book** per person. This should pay for a great paperback book, and about £3.70 postage cost with Royal Mail. If you're buying through Amazon, you can post it as a gift:
+**There's a cap on spending to <ins>£14 per book</ins>** per person. This should pay for a great paperback book, and about £3.70 postage cost with Royal Mail. If you're buying through Amazon, you can post it as a gift:
+
+First off, it's a gift — so make it look like one! How about adding a nice Christmassy note? Or a card? If it's a 2nd hand book, you could even tell your Secret Santa why you picked it.
 
 **My preference would be to shop with Waterstones, or your local book shop if you can.**
 
