@@ -2,9 +2,9 @@
 
 <img align="right" style="width: 40%;" src="./pexels-ylanite-koppens-1883378-2.jpg" />
   
-> - 📩 If any of the rules aren't clear to you, please email me to verify.
+> - 📩 If the rules aren't clear, please email me to verify.
 >   - You can find **my email in your dashboard**.
-> - ⛪ If you're a member of the church and you're applying, it's likely we give gifts in person on Christmas Eve :)
+> - ⛪ If you're a member of the church, it's likely we'll give gifts in-person on Christmas Eve :)
 > - 🇬🇧 It doesn't make sense to add international gift buyers right now, so **it's UK only please**.
 
 
@@ -58,7 +58,7 @@ For 2nd hand books, **let's stick to fiction or autobiography** so we all get so
 
 Parents can submit one child per entrant, but can **get in touch by email** if you have lots of kids eager to take part. Parent's will be responsible for payment of books, and will be asked to match like-for-like. This means, if yourself and your child are taking part, **that's two books** we'd like you to offer others in the Secret Santa; e.g: if you opt for a sparkling new book, it'll be £14 per book.
 
-For every kid who takes part, that's another book to buy.[^2] 
+For every kid who takes part, that's another book to buy.[^3] 
 
 ## 📮 Posting the book
 
@@ -97,6 +97,8 @@ Source: Conversation with Bing, 11/12/2023
 
 [^1]: **🎅 After the draw:** You will be sent details of your Secret Santa, along with their wishlist. Every applicant needs to supply their address, which will be sent to your buyer, and your phone number, which will be used internally to notify you of your Secret Santa and the deadline.
 
-[^2]: **If you've chosen kids** option, and you're also entering yourself, there's a small chance our random draw will match one of your kids with you. I think this is unlikely to happen, so we'll aim to make sure you both get one of the other Secret Santa's to give a gift to!
+[^2]: If you're too busy, or running short in time, please email me to send the money along and I'll try to buy it on your behalf. (I'll add a PayPal link soon)
+
+[^3]: **If you've chosen kids** option, and you're also entering yourself, there's a small chance our random draw will match one of your kids with you. I think this is unlikely to happen, so we'll aim to make sure you both get one of the other Secret Santa's to give a gift to!
 
 
