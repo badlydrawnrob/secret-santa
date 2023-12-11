@@ -5,6 +5,7 @@
 > - If any of the rules aren't clear to you, please email me to verify.
 >   - You can find **my email in your dashboard**.
 > - ⛪ If you're a member of the church and you're applying, it's likely we give gifts in person on Christmas Eve :)
+> - It doesn't make sense to add international gift buyers right now, so **it's UK only please**.
 
 
 ## ⏰ Deadline
