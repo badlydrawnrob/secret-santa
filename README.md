@@ -1,15 +1,20 @@
 # Secret Santa: rules of the game
 
+<img align="right" style="width: 40%;" src="./pexels-ylanite-koppens-1883378-2.jpg" />
+  
 > - If any of the rules aren't clear to you, please email me to verify.
 >   - You can find **my email in your dashboard**.
 > - ⛪ If you're a member of the church and you're applying, it's likely we give gifts in person on Christmas Eve :)
+
 
 ## ⏰ Deadline
 
 - The Secret Santa draw will be held on **December the 18th**
 - The [last chance](https://www.royalmail.com/christmas/last-posting-dates) to post your gift will be on **Wednesday 20 December**
+- That should give you **two days** to buy your gift.
 
-That should give you **two days** to buy your gift.
+&nbsp;
+<hr />
 
 **After the draw:** You will be sent details of your Secret Santa, along with their wishlist. Every applicant needs to supply their address, which will be sent to your buyer, and your phone number, which will be used internally to notify you of your Secret Santa and the deadline.
 
