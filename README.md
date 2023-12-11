@@ -32,7 +32,7 @@
 
 ## What happens after the draw?
 
-You'll get a message to find out more about your Secret Santa, and [then you'll post (and buy) the book](#-posting-the-book) depending on your choice. If for some reason you're unable to physically buy a book, I might be able to do it on your behalf (requires payment, so email me).
+**You'll get a message to find out more about your Secret Santa, and [then you'll post (and buy) the book](#-posting-the-book)** depending on your choice. If for some reason you're unable to physically buy a book, I might be able to do it on your behalf (requires payment, so email me).
 
 &nbsp;
 
