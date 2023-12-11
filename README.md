@@ -62,8 +62,8 @@ For every kid who takes part, that's another book to buy.[^3]
 
 ## 📮 Posting the book
 
-> For **option 1** all it's going to cost you is postage.
-> For **option 2** you'll pay for the book and postage.
+> - For **option 1** all it's going to cost you is postage.
+> - For **option 2** you'll pay for the book and postage.
 
 **There's a cap on spending to <ins>£14 per book</ins>** per person. This should pay for a great paperback book, and about £3.70 postage cost with Royal Mail. If you're buying through Amazon, you can post it as a gift:
 
