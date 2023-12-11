@@ -28,7 +28,7 @@
 
 - [ ] 🎁 [Gift option 1](#-gift-option-1-2nd-hand-books):  One **2nd hand book** (in great condition)
 - [ ] 🎁 [Gift option 2](#-gift-option-2-a-sparkling-new-book):  A **sparkling new book** of your choice
-    - [ ] 👨‍👩‍👧‍👦 [I have a child](#-if-you-have-children-who-are-joining) in who'd like to join
+    - [ ] 👨‍👩‍👧‍👦 [I have a child](#-if-you-have-children-who-are-joining-in) in who'd like to join
 
 ## What happens after the draw?
 
