@@ -26,8 +26,13 @@
 
 ## Which option did you pick?
 
-- [ ] 🎁 Gift option 1:  One **2nd hand book** (in great condition)
-- [ ] 🎁 Gift option 2:  A **sparkling new book** of your choice
+- [ ] 🎁 [Gift option 1](#-gift-option-1-2nd-hand-books):  One **2nd hand book** (in great condition)
+- [ ] 🎁 [Gift option 2](#-gift-option-2-a-sparkling-new-book):  A **sparkling new book** of your choice
+    - [ ] 👨‍👩‍👧‍👦 [I have a child](#-if-you-have-children-who-are-joining) in who'd like to join
+
+## What happens after the draw?
+
+You'll get a message to find out more about your Secret Santa, and [then you'll post (and buy) the book](#-posting-the-book) depending on your choice. If for some reason you're unable to physically buy a book, I might be able to do it on your behalf (requires payment, so email me).
 
 &nbsp;
 
