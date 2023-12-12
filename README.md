@@ -17,6 +17,8 @@
 &nbsp;
 <hr />
 
+### How we use your data
+
 - [x] 🔒 **We care about privacy.** Personal details are only used for the Secret Santa;[^1]
   - your buyer will only see your name, address and your wishlist.
 - [x] 📖 Your data will be deleted after the Secret Santa
